@@ -1,11 +1,9 @@
-# Hi, I'm TIGO! 👋
+# Hi, I'm Kyrylo! 👋
 
 ### 👨‍💻 About Me
 - Love building interactive web apps with React & Node.js
 - Exploring APIs, TypeScript & Postgres
 - Always learning something new 🚀
-
-![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 ### 🖥 Frontend
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -26,10 +24,6 @@
 <img src="https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-
-![Kyrylo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TIGO123&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TIGO123&layout=compact&theme=radical)
 
 ### 🚀 Featured Projects
 - [YumiMusic](https://yumi-music.space) – 🎵 Yumi Music 
